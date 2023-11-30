@@ -1,0 +1,6 @@
+pil
+cv2
+numpy
+torch
+transformers
+matplotlib
